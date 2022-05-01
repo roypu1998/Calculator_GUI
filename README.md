@@ -1,6 +1,6 @@
 # Calculator_GUI
-Simple calculator GUI in python.
-Basic calculator implements in Python using Tkinter.
+* Simple calculator GUI in python.
+* Implements Tkinter library.
 
 # Running Calculator:
 * Run git clone `https://github.com/roypu1998/Calculator_GUI.git` to clone the repository.
