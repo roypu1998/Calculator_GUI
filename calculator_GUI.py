@@ -1,3 +1,9 @@
+######################
+#       Author       #
+#--------------------#
+#    Roi Putterman   #
+######################
+
 from tkinter import *
 from tkinter import messagebox
 # Log the exception to file
