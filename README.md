@@ -12,7 +12,7 @@
 
 * Button `clear` - to clear the string from Entry.
 
-* In addition - there is log file that created when create instance of Calculator and it's contain exceptions and log in/log out records.
+* In addition - there is log file `app.log` that created when create instance of Calculator and it's contain exceptions and log in/log out records.
 
 # Author
 * Roi Putterman
