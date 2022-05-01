@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-# TODO: Log the exception to file
+# Log the exception to file
 import logging
 
 
